@@ -1,6 +1,6 @@
 {% set name = "pyfolio" %}
-{% set version = "0.8.0" %}
-{% set sha256 = "e30ee8c1932b45c4ce066cc78aee957d939e02a9427e797e2f7cd582cb0938c8" %}
+{% set version = "0.9.0" %}
+{% set sha256 = "a296eea79c86ba5910549f3a6fcfb28e69e54c2d1b90952a7dde636b0922e745" %}
 
 package:
   name: {{ name|lower }}
