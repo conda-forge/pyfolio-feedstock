@@ -21,12 +21,15 @@ performance of a trading algorithm.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pyfolio-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pyfolio-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pyfolio-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pyfolio-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyfolio/badges/version.svg)](https://anaconda.org/conda-forge/pyfolio)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyfolio/badges/downloads.svg)](https://anaconda.org/conda-forge/pyfolio)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pyfolio-green.svg)](https://anaconda.org/conda-forge/pyfolio) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyfolio.svg)](https://anaconda.org/conda-forge/pyfolio) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyfolio.svg)](https://anaconda.org/conda-forge/pyfolio) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyfolio.svg)](https://anaconda.org/conda-forge/pyfolio) |
 
 Installing pyfolio
 ==================
