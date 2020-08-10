@@ -5,7 +5,7 @@ Home: https://quantopian.github.io/pyfolio/
 
 Package license: Apache 2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: pyfolio is a Python library for performance and risk analysis of financial portfolios
 
